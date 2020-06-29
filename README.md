@@ -11,4 +11,4 @@ You can directly use it in powercord, by cloning this git repo.
 `git clone https://github.com/PoorPocketsMcNewHold/Metro-For-Discord-GlasscordEdit.git` with HTTPS.
 `git clone git@github.com:PoorPocketsMcNewHold/Metro-For-Discord-GlasscordEdit.git` with SSH.
 
-While my edits and this repo is licensed under the WTPL license, the original theme is under CC-BY-NC-SA and is owned by the original creator.
+While my edits and this repo is licensed under the [WTFPL](http://www.wtfpl.net/txt/copying) license, the original theme is under CC-BY-NC-SA and is owned by the original creator.
